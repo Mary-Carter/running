@@ -2,7 +2,7 @@ name: run action.py
 
 on:
   schedule:
-    - cron: '5 */2 * * *'
+    - cron: '5 */4 * * *'
   workflow_dispatch:
 
 jobs:

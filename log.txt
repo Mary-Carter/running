@@ -18,3 +18,4 @@
 33417 is not a palindrome.
 67607 is not a palindrome.
 81808 is not a palindrome.
+25231 is not a palindrome.

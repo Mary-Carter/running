@@ -21,3 +21,4 @@
 25231 is not a palindrome.
 85361 is not a palindrome.
 22946 is not a palindrome.
+36064 is not a palindrome.

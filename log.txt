@@ -28,3 +28,4 @@
 47679 is not a palindrome.
 67805 is not a palindrome.
 77678 is not a palindrome.
+57600 is not a palindrome.

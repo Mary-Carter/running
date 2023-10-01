@@ -26,3 +26,4 @@
 63743 is not a palindrome.
 35840 is not a palindrome.
 47679 is not a palindrome.
+67805 is not a palindrome.

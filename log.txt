@@ -34,3 +34,4 @@
 17763 is not a palindrome.
 21411 is not a palindrome.
 21617 is not a palindrome.
+50478 is not a palindrome.

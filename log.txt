@@ -48,3 +48,4 @@
 42759 is not a palindrome.
 89743 is not a palindrome.
 36103 is not a palindrome.
+93252 is not a palindrome.

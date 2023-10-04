@@ -47,3 +47,4 @@
 82860 is not a palindrome.
 42759 is not a palindrome.
 89743 is not a palindrome.
+36103 is not a palindrome.

@@ -44,3 +44,4 @@
 15174 is not a palindrome.
 25759 is not a palindrome.
 76326 is not a palindrome.
+82860 is not a palindrome.

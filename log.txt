@@ -53,3 +53,4 @@
 44337 is not a palindrome.
 58698 is not a palindrome.
 57600 is not a palindrome.
+26867 is not a palindrome.

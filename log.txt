@@ -54,3 +54,4 @@
 58698 is not a palindrome.
 57600 is not a palindrome.
 26867 is not a palindrome.
+70035 is not a palindrome.

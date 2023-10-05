@@ -49,3 +49,4 @@
 89743 is not a palindrome.
 36103 is not a palindrome.
 93252 is not a palindrome.
+94891 is not a palindrome.

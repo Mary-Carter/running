@@ -57,3 +57,4 @@
 70035 is not a palindrome.
 87516 is not a palindrome.
 99895 is not a palindrome.
+69216 is not a palindrome.

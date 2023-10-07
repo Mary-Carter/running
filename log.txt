@@ -62,3 +62,4 @@
 24373 is not a palindrome.
 24539 is not a palindrome.
 81557 is not a palindrome.
+72866 is not a palindrome.

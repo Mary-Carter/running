@@ -65,3 +65,4 @@
 72866 is not a palindrome.
 11126 is not a palindrome.
 49711 is not a palindrome.
+59145 is not a palindrome.

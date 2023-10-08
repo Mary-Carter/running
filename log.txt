@@ -71,3 +71,4 @@
 15748 is not a palindrome.
 40119 is not a palindrome.
 70849 is not a palindrome.
+71250 is not a palindrome.

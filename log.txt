@@ -69,3 +69,4 @@
 26747 is not a palindrome.
 30608 is not a palindrome.
 15748 is not a palindrome.
+40119 is not a palindrome.

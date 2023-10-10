@@ -81,3 +81,4 @@
 74031 is not a palindrome.
 17325 is not a palindrome.
 53120 is not a palindrome.
+88516 is not a palindrome.

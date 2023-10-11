@@ -88,3 +88,4 @@
 47026 is not a palindrome.
 57813 is not a palindrome.
 55538 is not a palindrome.
+66862 is not a palindrome.

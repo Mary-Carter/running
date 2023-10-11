@@ -85,3 +85,4 @@
 51993 is not a palindrome.
 59869 is not a palindrome.
 81694 is not a palindrome.
+47026 is not a palindrome.

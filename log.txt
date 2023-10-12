@@ -95,3 +95,4 @@
 30679 is not a palindrome.
 77782 is not a palindrome.
 94891 is not a palindrome.
+85055 is not a palindrome.

@@ -92,3 +92,4 @@
 61404 is not a palindrome.
 23525 is not a palindrome.
 33174 is not a palindrome.
+30679 is not a palindrome.

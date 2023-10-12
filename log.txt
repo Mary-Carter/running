@@ -93,3 +93,4 @@
 23525 is not a palindrome.
 33174 is not a palindrome.
 30679 is not a palindrome.
+77782 is not a palindrome.

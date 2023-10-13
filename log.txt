@@ -100,3 +100,4 @@
 26275 is not a palindrome.
 72923 is not a palindrome.
 26174 is not a palindrome.
+30679 is not a palindrome.

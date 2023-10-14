@@ -107,3 +107,4 @@
 96651 is not a palindrome.
 18265 is not a palindrome.
 96651 is not a palindrome.
+82397 is not a palindrome.

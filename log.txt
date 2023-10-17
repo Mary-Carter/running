@@ -124,3 +124,4 @@
 63269 is not a palindrome.
 97711 is not a palindrome.
 38487 is not a palindrome.
+36876 is not a palindrome.

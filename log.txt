@@ -130,3 +130,4 @@
 40704 is a palindrome.
 25889 is not a palindrome.
 81415 is not a palindrome.
+61001 is not a palindrome.

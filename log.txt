@@ -133,3 +133,4 @@
 61001 is not a palindrome.
 77322 is not a palindrome.
 76447 is not a palindrome.
+95080 is not a palindrome.

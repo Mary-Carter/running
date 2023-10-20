@@ -143,3 +143,4 @@
 45567 is not a palindrome.
 31561 is not a palindrome.
 64292 is not a palindrome.
+25727 is not a palindrome.

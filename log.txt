@@ -152,3 +152,4 @@
 60248 is not a palindrome.
 76447 is not a palindrome.
 54778 is not a palindrome.
+19483 is not a palindrome.

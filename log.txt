@@ -160,3 +160,4 @@
 73227 is not a palindrome.
 67766 is not a palindrome.
 63382 is not a palindrome.
+98966 is not a palindrome.

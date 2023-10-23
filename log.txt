@@ -158,3 +158,4 @@
 13603 is not a palindrome.
 75342 is not a palindrome.
 73227 is not a palindrome.
+67766 is not a palindrome.

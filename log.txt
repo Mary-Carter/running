@@ -167,3 +167,4 @@
 71009 is not a palindrome.
 86427 is not a palindrome.
 94106 is not a palindrome.
+12520 is not a palindrome.

@@ -168,3 +168,4 @@
 86427 is not a palindrome.
 94106 is not a palindrome.
 12520 is not a palindrome.
+73227 is not a palindrome.

@@ -163,3 +163,4 @@
 98966 is not a palindrome.
 51307 is not a palindrome.
 41356 is not a palindrome.
+18625 is not a palindrome.

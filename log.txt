@@ -165,3 +165,4 @@
 41356 is not a palindrome.
 18625 is not a palindrome.
 71009 is not a palindrome.
+86427 is not a palindrome.

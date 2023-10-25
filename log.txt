@@ -171,3 +171,4 @@
 73227 is not a palindrome.
 23163 is not a palindrome.
 82911 is not a palindrome.
+71140 is not a palindrome.

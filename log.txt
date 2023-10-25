@@ -174,3 +174,4 @@
 71140 is not a palindrome.
 41303 is not a palindrome.
 38428 is not a palindrome.
+53192 is not a palindrome.

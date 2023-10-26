@@ -175,3 +175,4 @@
 41303 is not a palindrome.
 38428 is not a palindrome.
 53192 is not a palindrome.
+31048 is not a palindrome.

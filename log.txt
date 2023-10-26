@@ -179,3 +179,4 @@
 98050 is not a palindrome.
 83014 is not a palindrome.
 31873 is not a palindrome.
+77678 is not a palindrome.

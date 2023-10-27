@@ -183,3 +183,4 @@
 14817 is not a palindrome.
 94833 is not a palindrome.
 91201 is not a palindrome.
+18625 is not a palindrome.

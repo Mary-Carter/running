@@ -187,3 +187,4 @@
 83379 is not a palindrome.
 52164 is not a palindrome.
 51635 is not a palindrome.
+62055 is not a palindrome.

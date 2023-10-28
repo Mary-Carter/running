@@ -190,3 +190,4 @@
 62055 is not a palindrome.
 77678 is not a palindrome.
 35376 is not a palindrome.
+71953 is not a palindrome.

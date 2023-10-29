@@ -195,3 +195,4 @@
 22824 is not a palindrome.
 48927 is not a palindrome.
 53095 is not a palindrome.
+72695 is not a palindrome.

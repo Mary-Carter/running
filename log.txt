@@ -194,3 +194,4 @@
 29405 is not a palindrome.
 22824 is not a palindrome.
 48927 is not a palindrome.
+53095 is not a palindrome.

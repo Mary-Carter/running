@@ -199,3 +199,4 @@
 58922 is not a palindrome.
 76982 is not a palindrome.
 36585 is not a palindrome.
+25231 is not a palindrome.

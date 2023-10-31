@@ -206,3 +206,4 @@
 25116 is not a palindrome.
 88172 is not a palindrome.
 43326 is not a palindrome.
+87451 is not a palindrome.

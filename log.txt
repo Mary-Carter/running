@@ -210,3 +210,4 @@
 91787 is not a palindrome.
 19751 is not a palindrome.
 12263 is not a palindrome.
+18724 is not a palindrome.

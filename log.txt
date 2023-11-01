@@ -212,3 +212,4 @@
 12263 is not a palindrome.
 18724 is not a palindrome.
 90217 is not a palindrome.
+67887 is not a palindrome.

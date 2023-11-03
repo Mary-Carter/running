@@ -227,3 +227,4 @@
 35389 is not a palindrome.
 45567 is not a palindrome.
 55506 is not a palindrome.
+79923 is not a palindrome.

@@ -225,3 +225,4 @@
 90015 is not a palindrome.
 59145 is not a palindrome.
 35389 is not a palindrome.
+45567 is not a palindrome.

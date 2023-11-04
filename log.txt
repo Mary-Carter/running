@@ -230,3 +230,4 @@
 79923 is not a palindrome.
 19164 is not a palindrome.
 43779 is not a palindrome.
+42149 is not a palindrome.

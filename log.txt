@@ -240,3 +240,4 @@
 37239 is not a palindrome.
 82099 is not a palindrome.
 13871 is not a palindrome.
+18724 is not a palindrome.

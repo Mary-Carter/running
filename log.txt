@@ -246,3 +246,4 @@
 87319 is not a palindrome.
 28132 is not a palindrome.
 91166 is not a palindrome.
+86963 is not a palindrome.

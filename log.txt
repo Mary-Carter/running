@@ -244,3 +244,4 @@
 21006 is not a palindrome.
 67516 is not a palindrome.
 87319 is not a palindrome.
+28132 is not a palindrome.

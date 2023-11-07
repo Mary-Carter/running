@@ -249,3 +249,4 @@
 86963 is not a palindrome.
 95308 is not a palindrome.
 62055 is not a palindrome.
+86976 is not a palindrome.

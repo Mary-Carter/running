@@ -258,3 +258,4 @@
 95308 is not a palindrome.
 13645 is not a palindrome.
 75319 is not a palindrome.
+43256 is not a palindrome.

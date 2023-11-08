@@ -254,3 +254,4 @@
 87516 is not a palindrome.
 72122 is not a palindrome.
 18306 is not a palindrome.
+71250 is not a palindrome.

@@ -262,3 +262,4 @@
 17158 is not a palindrome.
 47901 is not a palindrome.
 77588 is not a palindrome.
+58706 is not a palindrome.

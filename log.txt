@@ -266,3 +266,4 @@
 94911 is not a palindrome.
 25908 is not a palindrome.
 64246 is a palindrome.
+49642 is not a palindrome.

@@ -267,3 +267,4 @@
 25908 is not a palindrome.
 64246 is a palindrome.
 49642 is not a palindrome.
+71140 is not a palindrome.

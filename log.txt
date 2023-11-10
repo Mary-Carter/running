@@ -268,3 +268,4 @@
 64246 is a palindrome.
 49642 is not a palindrome.
 71140 is not a palindrome.
+44750 is not a palindrome.

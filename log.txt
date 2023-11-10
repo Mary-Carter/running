@@ -270,3 +270,4 @@
 71140 is not a palindrome.
 44750 is not a palindrome.
 41290 is not a palindrome.
+23053 is not a palindrome.

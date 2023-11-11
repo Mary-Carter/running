@@ -275,3 +275,4 @@
 10546 is not a palindrome.
 92474 is not a palindrome.
 42368 is not a palindrome.
+24373 is not a palindrome.

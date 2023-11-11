@@ -272,3 +272,4 @@
 41290 is not a palindrome.
 23053 is not a palindrome.
 97772 is not a palindrome.
+10546 is not a palindrome.

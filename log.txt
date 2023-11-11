@@ -274,3 +274,4 @@
 97772 is not a palindrome.
 10546 is not a palindrome.
 92474 is not a palindrome.
+42368 is not a palindrome.

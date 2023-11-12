@@ -277,3 +277,4 @@
 42368 is not a palindrome.
 24373 is not a palindrome.
 18469 is not a palindrome.
+30522 is not a palindrome.

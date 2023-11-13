@@ -284,3 +284,4 @@
 49174 is not a palindrome.
 69076 is not a palindrome.
 68668 is not a palindrome.
+70073 is not a palindrome.

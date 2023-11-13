@@ -288,3 +288,4 @@
 16542 is not a palindrome.
 79005 is not a palindrome.
 82331 is not a palindrome.
+54849 is not a palindrome.

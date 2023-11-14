@@ -289,3 +289,4 @@
 79005 is not a palindrome.
 82331 is not a palindrome.
 54849 is not a palindrome.
+67607 is not a palindrome.

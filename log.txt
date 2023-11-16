@@ -306,3 +306,4 @@
 85040 is not a palindrome.
 31597 is not a palindrome.
 45835 is not a palindrome.
+38487 is not a palindrome.

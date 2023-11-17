@@ -307,3 +307,4 @@
 31597 is not a palindrome.
 45835 is not a palindrome.
 38487 is not a palindrome.
+79252 is not a palindrome.

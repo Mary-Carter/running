@@ -316,3 +316,4 @@
 40810 is not a palindrome.
 51874 is not a palindrome.
 32820 is not a palindrome.
+19696 is not a palindrome.

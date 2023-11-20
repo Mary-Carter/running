@@ -330,3 +330,4 @@
 89863 is not a palindrome.
 10546 is not a palindrome.
 17838 is not a palindrome.
+42759 is not a palindrome.

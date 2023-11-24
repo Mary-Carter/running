@@ -350,3 +350,4 @@
 47679 is not a palindrome.
 75845 is not a palindrome.
 12310 is not a palindrome.
+30518 is not a palindrome.

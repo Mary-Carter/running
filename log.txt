@@ -365,3 +365,4 @@
 19451 is not a palindrome.
 83163 is not a palindrome.
 39704 is not a palindrome.
+89498 is a palindrome.

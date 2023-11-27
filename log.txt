@@ -367,3 +367,4 @@
 39704 is not a palindrome.
 89498 is a palindrome.
 14729 is not a palindrome.
+16604 is not a palindrome.

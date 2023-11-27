@@ -372,3 +372,4 @@
 71635 is not a palindrome.
 90775 is not a palindrome.
 67623 is not a palindrome.
+67953 is not a palindrome.

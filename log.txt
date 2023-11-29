@@ -381,3 +381,4 @@
 86958 is not a palindrome.
 98801 is not a palindrome.
 23131 is not a palindrome.
+22239 is not a palindrome.

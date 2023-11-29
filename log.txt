@@ -382,3 +382,4 @@
 98801 is not a palindrome.
 23131 is not a palindrome.
 22239 is not a palindrome.
+85787 is not a palindrome.

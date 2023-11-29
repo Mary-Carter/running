@@ -384,3 +384,4 @@
 22239 is not a palindrome.
 85787 is not a palindrome.
 16617 is not a palindrome.
+47026 is not a palindrome.

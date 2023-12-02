@@ -400,3 +400,4 @@
 90217 is not a palindrome.
 12310 is not a palindrome.
 72071 is not a palindrome.
+26275 is not a palindrome.

@@ -417,3 +417,4 @@
 58667 is not a palindrome.
 49711 is not a palindrome.
 48880 is not a palindrome.
+56020 is not a palindrome.

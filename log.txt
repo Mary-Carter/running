@@ -430,3 +430,4 @@
 36068 is not a palindrome.
 22239 is not a palindrome.
 56936 is not a palindrome.
+47895 is not a palindrome.

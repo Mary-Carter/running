@@ -431,3 +431,4 @@
 22239 is not a palindrome.
 56936 is not a palindrome.
 47895 is not a palindrome.
+10466 is not a palindrome.

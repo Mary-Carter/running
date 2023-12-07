@@ -428,3 +428,4 @@
 83379 is not a palindrome.
 29120 is not a palindrome.
 36068 is not a palindrome.
+22239 is not a palindrome.

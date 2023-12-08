@@ -435,3 +435,4 @@
 63382 is not a palindrome.
 98026 is not a palindrome.
 50105 is a palindrome.
+97059 is not a palindrome.

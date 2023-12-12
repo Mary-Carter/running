@@ -458,3 +458,4 @@
 90092 is not a palindrome.
 64725 is not a palindrome.
 98026 is not a palindrome.
+30522 is not a palindrome.

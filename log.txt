@@ -460,3 +460,4 @@
 98026 is not a palindrome.
 30522 is not a palindrome.
 23933 is not a palindrome.
+52415 is not a palindrome.

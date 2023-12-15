@@ -478,3 +478,4 @@
 59438 is not a palindrome.
 83591 is not a palindrome.
 66484 is not a palindrome.
+71718 is not a palindrome.

@@ -480,3 +480,4 @@
 66484 is not a palindrome.
 71718 is not a palindrome.
 38419 is not a palindrome.
+98959 is not a palindrome.

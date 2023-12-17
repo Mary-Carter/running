@@ -492,3 +492,4 @@
 85268 is not a palindrome.
 62055 is not a palindrome.
 19795 is not a palindrome.
+35242 is not a palindrome.

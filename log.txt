@@ -489,3 +489,4 @@
 82253 is not a palindrome.
 89863 is not a palindrome.
 33299 is not a palindrome.
+85268 is not a palindrome.

@@ -496,3 +496,4 @@
 67152 is not a palindrome.
 71140 is not a palindrome.
 80800 is not a palindrome.
+48764 is not a palindrome.

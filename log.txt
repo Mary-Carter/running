@@ -494,3 +494,4 @@
 19795 is not a palindrome.
 35242 is not a palindrome.
 67152 is not a palindrome.
+71140 is not a palindrome.

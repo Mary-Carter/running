@@ -500,3 +500,4 @@
 29191 is not a palindrome.
 17063 is not a palindrome.
 13766 is not a palindrome.
+56482 is not a palindrome.

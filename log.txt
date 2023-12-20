@@ -510,3 +510,4 @@
 99484 is not a palindrome.
 81682 is not a palindrome.
 58527 is not a palindrome.
+20526 is not a palindrome.

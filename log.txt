@@ -507,3 +507,4 @@
 35055 is not a palindrome.
 13466 is not a palindrome.
 52705 is not a palindrome.
+99484 is not a palindrome.

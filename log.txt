@@ -516,3 +516,4 @@
 56020 is not a palindrome.
 52798 is not a palindrome.
 67452 is not a palindrome.
+94750 is not a palindrome.

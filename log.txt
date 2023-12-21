@@ -512,3 +512,4 @@
 58527 is not a palindrome.
 20526 is not a palindrome.
 60645 is not a palindrome.
+79903 is not a palindrome.

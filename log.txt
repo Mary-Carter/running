@@ -534,3 +534,4 @@
 34293 is not a palindrome.
 77990 is not a palindrome.
 13871 is not a palindrome.
+54482 is not a palindrome.

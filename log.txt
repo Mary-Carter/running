@@ -529,3 +529,4 @@
 74755 is not a palindrome.
 97875 is not a palindrome.
 78425 is not a palindrome.
+18724 is not a palindrome.

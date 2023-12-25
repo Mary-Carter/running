@@ -536,3 +536,4 @@
 13871 is not a palindrome.
 54482 is not a palindrome.
 16697 is not a palindrome.
+98959 is not a palindrome.

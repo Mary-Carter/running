@@ -542,3 +542,4 @@
 67953 is not a palindrome.
 23933 is not a palindrome.
 65089 is not a palindrome.
+59042 is not a palindrome.

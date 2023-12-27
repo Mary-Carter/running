@@ -552,3 +552,4 @@
 35104 is not a palindrome.
 25218 is not a palindrome.
 93696 is not a palindrome.
+36603 is not a palindrome.

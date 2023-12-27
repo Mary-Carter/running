@@ -550,3 +550,4 @@
 94004 is not a palindrome.
 45769 is not a palindrome.
 35104 is not a palindrome.
+25218 is not a palindrome.

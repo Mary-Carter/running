@@ -556,3 +556,4 @@
 87451 is not a palindrome.
 13697 is not a palindrome.
 68944 is not a palindrome.
+48764 is not a palindrome.

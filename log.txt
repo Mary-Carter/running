@@ -569,3 +569,4 @@
 19164 is not a palindrome.
 35098 is not a palindrome.
 40049 is not a palindrome.
+25218 is not a palindrome.

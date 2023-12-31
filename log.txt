@@ -575,3 +575,4 @@
 83411 is not a palindrome.
 64725 is not a palindrome.
 55637 is not a palindrome.
+61672 is not a palindrome.

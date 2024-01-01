@@ -580,3 +580,4 @@
 27646 is not a palindrome.
 23963 is not a palindrome.
 88306 is not a palindrome.
+86218 is not a palindrome.

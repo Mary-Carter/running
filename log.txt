@@ -578,3 +578,4 @@
 61672 is not a palindrome.
 82911 is not a palindrome.
 27646 is not a palindrome.
+23963 is not a palindrome.

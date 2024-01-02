@@ -587,3 +587,4 @@
 97772 is not a palindrome.
 59036 is not a palindrome.
 38724 is not a palindrome.
+93696 is not a palindrome.

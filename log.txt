@@ -588,3 +588,4 @@
 59036 is not a palindrome.
 38724 is not a palindrome.
 93696 is not a palindrome.
+16604 is not a palindrome.

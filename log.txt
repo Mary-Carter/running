@@ -584,3 +584,4 @@
 14309 is not a palindrome.
 95967 is not a palindrome.
 94911 is not a palindrome.
+97772 is not a palindrome.

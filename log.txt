@@ -591,3 +591,4 @@
 16604 is not a palindrome.
 27210 is not a palindrome.
 75423 is not a palindrome.
+24632 is not a palindrome.

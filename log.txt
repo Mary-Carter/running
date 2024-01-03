@@ -590,3 +590,4 @@
 93696 is not a palindrome.
 16604 is not a palindrome.
 27210 is not a palindrome.
+75423 is not a palindrome.

@@ -595,3 +595,4 @@
 97772 is not a palindrome.
 32205 is not a palindrome.
 47802 is not a palindrome.
+30760 is not a palindrome.

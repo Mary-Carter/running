@@ -598,3 +598,4 @@
 30760 is not a palindrome.
 46906 is not a palindrome.
 62125 is not a palindrome.
+43284 is not a palindrome.

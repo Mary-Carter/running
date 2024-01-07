@@ -615,3 +615,4 @@
 55637 is not a palindrome.
 46249 is not a palindrome.
 46249 is not a palindrome.
+24180 is not a palindrome.

@@ -618,3 +618,4 @@
 24180 is not a palindrome.
 94509 is not a palindrome.
 17119 is not a palindrome.
+59086 is not a palindrome.

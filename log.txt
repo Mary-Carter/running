@@ -623,3 +623,4 @@
 39877 is not a palindrome.
 25426 is not a palindrome.
 87516 is not a palindrome.
+13697 is not a palindrome.

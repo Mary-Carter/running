@@ -629,3 +629,4 @@
 14598 is not a palindrome.
 90601 is not a palindrome.
 62399 is not a palindrome.
+95285 is not a palindrome.

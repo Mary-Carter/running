@@ -636,3 +636,4 @@
 40931 is not a palindrome.
 98959 is not a palindrome.
 30740 is not a palindrome.
+21242 is not a palindrome.

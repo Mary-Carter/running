@@ -631,3 +631,4 @@
 62399 is not a palindrome.
 95285 is not a palindrome.
 95967 is not a palindrome.
+40079 is not a palindrome.

@@ -634,3 +634,4 @@
 40079 is not a palindrome.
 13603 is not a palindrome.
 40931 is not a palindrome.
+98959 is not a palindrome.

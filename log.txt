@@ -640,3 +640,4 @@
 78379 is not a palindrome.
 14211 is not a palindrome.
 85177 is not a palindrome.
+71025 is not a palindrome.

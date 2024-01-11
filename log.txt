@@ -642,3 +642,4 @@
 85177 is not a palindrome.
 71025 is not a palindrome.
 10596 is not a palindrome.
+86427 is not a palindrome.

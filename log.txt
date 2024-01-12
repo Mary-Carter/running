@@ -645,3 +645,4 @@
 86427 is not a palindrome.
 27210 is not a palindrome.
 90313 is not a palindrome.
+24632 is not a palindrome.

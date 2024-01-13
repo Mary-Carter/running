@@ -649,3 +649,4 @@
 69138 is not a palindrome.
 83573 is not a palindrome.
 63743 is not a palindrome.
+22239 is not a palindrome.

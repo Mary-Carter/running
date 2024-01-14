@@ -655,3 +655,4 @@
 33947 is not a palindrome.
 97875 is not a palindrome.
 77943 is not a palindrome.
+14732 is not a palindrome.

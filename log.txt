@@ -664,3 +664,4 @@
 59179 is not a palindrome.
 82099 is not a palindrome.
 84456 is not a palindrome.
+55938 is not a palindrome.

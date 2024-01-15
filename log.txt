@@ -666,3 +666,4 @@
 84456 is not a palindrome.
 55938 is not a palindrome.
 10309 is not a palindrome.
+12972 is not a palindrome.

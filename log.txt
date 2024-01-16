@@ -671,3 +671,4 @@
 43100 is not a palindrome.
 25896 is not a palindrome.
 52776 is not a palindrome.
+26325 is not a palindrome.

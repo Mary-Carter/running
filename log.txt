@@ -677,3 +677,4 @@
 26728 is not a palindrome.
 82212 is not a palindrome.
 65619 is not a palindrome.
+18306 is not a palindrome.

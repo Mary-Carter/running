@@ -675,3 +675,4 @@
 17144 is not a palindrome.
 69426 is not a palindrome.
 26728 is not a palindrome.
+82212 is not a palindrome.

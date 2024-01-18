@@ -680,3 +680,4 @@
 18306 is not a palindrome.
 19890 is not a palindrome.
 73585 is not a palindrome.
+97059 is not a palindrome.

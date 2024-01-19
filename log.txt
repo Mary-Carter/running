@@ -687,3 +687,4 @@
 42302 is not a palindrome.
 27305 is not a palindrome.
 27888 is not a palindrome.
+54545 is a palindrome.

@@ -690,3 +690,4 @@
 54545 is a palindrome.
 71143 is not a palindrome.
 11311 is a palindrome.
+32431 is not a palindrome.

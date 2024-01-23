@@ -714,3 +714,4 @@
 21006 is not a palindrome.
 25317 is not a palindrome.
 85155 is not a palindrome.
+78604 is not a palindrome.

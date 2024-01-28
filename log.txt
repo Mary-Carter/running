@@ -741,3 +741,4 @@
 98026 is not a palindrome.
 74155 is not a palindrome.
 28906 is not a palindrome.
+55567 is not a palindrome.

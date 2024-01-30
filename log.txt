@@ -755,3 +755,4 @@
 35515 is not a palindrome.
 21198 is not a palindrome.
 65948 is not a palindrome.
+12227 is not a palindrome.

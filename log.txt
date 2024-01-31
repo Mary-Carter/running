@@ -760,3 +760,4 @@
 97711 is not a palindrome.
 31048 is not a palindrome.
 57174 is not a palindrome.
+25896 is not a palindrome.

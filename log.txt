@@ -761,3 +761,4 @@
 31048 is not a palindrome.
 57174 is not a palindrome.
 25896 is not a palindrome.
+38470 is not a palindrome.

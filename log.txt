@@ -765,3 +765,4 @@
 63382 is not a palindrome.
 14309 is not a palindrome.
 23053 is not a palindrome.
+85194 is not a palindrome.

@@ -764,3 +764,4 @@
 38470 is not a palindrome.
 63382 is not a palindrome.
 14309 is not a palindrome.
+23053 is not a palindrome.

@@ -777,3 +777,4 @@
 25426 is not a palindrome.
 48109 is not a palindrome.
 65164 is not a palindrome.
+49995 is not a palindrome.

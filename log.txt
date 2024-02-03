@@ -779,3 +779,4 @@
 65164 is not a palindrome.
 49995 is not a palindrome.
 58749 is not a palindrome.
+24925 is not a palindrome.

@@ -787,3 +787,4 @@
 87902 is not a palindrome.
 97685 is not a palindrome.
 99484 is not a palindrome.
+86218 is not a palindrome.

@@ -799,3 +799,4 @@
 23525 is not a palindrome.
 61841 is not a palindrome.
 28906 is not a palindrome.
+47870 is not a palindrome.

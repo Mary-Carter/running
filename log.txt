@@ -804,3 +804,4 @@
 69444 is not a palindrome.
 35840 is not a palindrome.
 97945 is not a palindrome.
+44744 is a palindrome.

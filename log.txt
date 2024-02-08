@@ -806,3 +806,4 @@
 97945 is not a palindrome.
 44744 is a palindrome.
 73813 is not a palindrome.
+20526 is not a palindrome.

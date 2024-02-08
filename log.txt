@@ -805,3 +805,4 @@
 35840 is not a palindrome.
 97945 is not a palindrome.
 44744 is a palindrome.
+73813 is not a palindrome.

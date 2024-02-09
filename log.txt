@@ -812,3 +812,4 @@
 52164 is not a palindrome.
 99773 is not a palindrome.
 90217 is not a palindrome.
+10853 is not a palindrome.

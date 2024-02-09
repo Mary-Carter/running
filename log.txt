@@ -814,3 +814,4 @@
 90217 is not a palindrome.
 10853 is not a palindrome.
 47870 is not a palindrome.
+90487 is not a palindrome.

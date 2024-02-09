@@ -815,3 +815,4 @@
 10853 is not a palindrome.
 47870 is not a palindrome.
 90487 is not a palindrome.
+72866 is not a palindrome.

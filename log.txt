@@ -819,3 +819,4 @@
 91980 is not a palindrome.
 75735 is not a palindrome.
 97678 is not a palindrome.
+78530 is not a palindrome.

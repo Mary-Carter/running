@@ -822,3 +822,4 @@
 78530 is not a palindrome.
 41419 is not a palindrome.
 45769 is not a palindrome.
+31048 is not a palindrome.

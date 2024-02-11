@@ -827,3 +827,4 @@
 90601 is not a palindrome.
 30948 is not a palindrome.
 25077 is not a palindrome.
+21006 is not a palindrome.

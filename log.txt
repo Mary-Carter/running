@@ -823,3 +823,4 @@
 41419 is not a palindrome.
 45769 is not a palindrome.
 31048 is not a palindrome.
+99526 is not a palindrome.

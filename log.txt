@@ -833,3 +833,4 @@
 89327 is not a palindrome.
 47878 is not a palindrome.
 90175 is not a palindrome.
+23993 is not a palindrome.

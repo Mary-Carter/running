@@ -831,3 +831,4 @@
 32737 is not a palindrome.
 23090 is not a palindrome.
 89327 is not a palindrome.
+47878 is not a palindrome.

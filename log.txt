@@ -839,3 +839,4 @@
 46249 is not a palindrome.
 38428 is not a palindrome.
 25113 is not a palindrome.
+26867 is not a palindrome.

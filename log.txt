@@ -840,3 +840,4 @@
 38428 is not a palindrome.
 25113 is not a palindrome.
 26867 is not a palindrome.
+94004 is not a palindrome.

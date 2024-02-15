@@ -852,3 +852,4 @@
 95289 is not a palindrome.
 59036 is not a palindrome.
 71025 is not a palindrome.
+30567 is not a palindrome.

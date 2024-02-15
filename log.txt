@@ -849,3 +849,4 @@
 55538 is not a palindrome.
 28301 is not a palindrome.
 82860 is not a palindrome.
+95289 is not a palindrome.

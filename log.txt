@@ -850,3 +850,4 @@
 28301 is not a palindrome.
 82860 is not a palindrome.
 95289 is not a palindrome.
+59036 is not a palindrome.

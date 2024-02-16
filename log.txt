@@ -855,3 +855,4 @@
 30567 is not a palindrome.
 17063 is not a palindrome.
 75566 is not a palindrome.
+47504 is not a palindrome.

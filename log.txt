@@ -857,3 +857,4 @@
 75566 is not a palindrome.
 47504 is not a palindrome.
 13412 is not a palindrome.
+85040 is not a palindrome.

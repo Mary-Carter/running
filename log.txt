@@ -861,3 +861,4 @@
 75342 is not a palindrome.
 19001 is not a palindrome.
 30764 is not a palindrome.
+11270 is not a palindrome.

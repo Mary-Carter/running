@@ -874,3 +874,4 @@
 32651 is not a palindrome.
 18625 is not a palindrome.
 45416 is not a palindrome.
+25008 is not a palindrome.

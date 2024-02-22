@@ -892,3 +892,4 @@
 25218 is not a palindrome.
 11951 is not a palindrome.
 46906 is not a palindrome.
+35342 is not a palindrome.

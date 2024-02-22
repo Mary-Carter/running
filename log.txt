@@ -890,3 +890,4 @@
 23729 is not a palindrome.
 85040 is not a palindrome.
 25218 is not a palindrome.
+11951 is not a palindrome.

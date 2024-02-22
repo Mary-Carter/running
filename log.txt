@@ -889,3 +889,4 @@
 94009 is not a palindrome.
 23729 is not a palindrome.
 85040 is not a palindrome.
+25218 is not a palindrome.

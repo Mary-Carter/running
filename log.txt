@@ -905,3 +905,4 @@
 12721 is a palindrome.
 18633 is not a palindrome.
 37239 is not a palindrome.
+31018 is not a palindrome.

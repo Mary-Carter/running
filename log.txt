@@ -914,3 +914,4 @@
 53019 is not a palindrome.
 14438 is not a palindrome.
 70844 is not a palindrome.
+51874 is not a palindrome.

@@ -918,3 +918,4 @@
 10297 is not a palindrome.
 65948 is not a palindrome.
 55581 is not a palindrome.
+76947 is not a palindrome.

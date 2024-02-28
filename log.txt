@@ -926,3 +926,4 @@
 10309 is not a palindrome.
 97107 is not a palindrome.
 26867 is not a palindrome.
+56047 is not a palindrome.

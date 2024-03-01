@@ -939,3 +939,4 @@
 51017 is not a palindrome.
 36103 is not a palindrome.
 55413 is not a palindrome.
+82000 is not a palindrome.

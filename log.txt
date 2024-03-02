@@ -943,3 +943,4 @@
 90015 is not a palindrome.
 91204 is not a palindrome.
 23729 is not a palindrome.
+10596 is not a palindrome.

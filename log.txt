@@ -947,3 +947,4 @@
 99962 is not a palindrome.
 71635 is not a palindrome.
 47207 is not a palindrome.
+31593 is not a palindrome.

@@ -954,3 +954,4 @@
 79334 is not a palindrome.
 91943 is not a palindrome.
 65997 is not a palindrome.
+87166 is not a palindrome.

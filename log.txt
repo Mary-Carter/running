@@ -963,3 +963,4 @@
 17325 is not a palindrome.
 69444 is not a palindrome.
 46684 is not a palindrome.
+10926 is not a palindrome.

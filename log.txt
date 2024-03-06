@@ -971,3 +971,4 @@
 14715 is not a palindrome.
 97931 is not a palindrome.
 74289 is not a palindrome.
+79296 is not a palindrome.

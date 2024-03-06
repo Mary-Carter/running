@@ -970,3 +970,4 @@
 70993 is not a palindrome.
 14715 is not a palindrome.
 97931 is not a palindrome.
+74289 is not a palindrome.

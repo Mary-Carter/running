@@ -977,3 +977,4 @@
 10000 is not a palindrome.
 63251 is not a palindrome.
 45254 is a palindrome.
+54753 is not a palindrome.

@@ -974,3 +974,4 @@
 79296 is not a palindrome.
 28800 is not a palindrome.
 81393 is not a palindrome.
+10000 is not a palindrome.

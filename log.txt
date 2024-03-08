@@ -984,3 +984,4 @@
 51017 is not a palindrome.
 35515 is not a palindrome.
 47802 is not a palindrome.
+30740 is not a palindrome.

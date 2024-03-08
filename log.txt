@@ -979,3 +979,4 @@
 45254 is a palindrome.
 54753 is not a palindrome.
 27646 is not a palindrome.
+77782 is not a palindrome.

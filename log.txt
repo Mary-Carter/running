@@ -983,3 +983,4 @@
 97146 is not a palindrome.
 51017 is not a palindrome.
 35515 is not a palindrome.
+47802 is not a palindrome.

@@ -994,3 +994,4 @@
 82911 is not a palindrome.
 54545 is a palindrome.
 71025 is not a palindrome.
+66099 is not a palindrome.

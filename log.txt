@@ -992,3 +992,4 @@
 12227 is not a palindrome.
 17999 is not a palindrome.
 82911 is not a palindrome.
+54545 is a palindrome.

@@ -1014,3 +1014,4 @@
 87406 is not a palindrome.
 10030 is not a palindrome.
 37239 is not a palindrome.
+47878 is not a palindrome.

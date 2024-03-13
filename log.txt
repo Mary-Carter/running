@@ -1012,3 +1012,4 @@
 72122 is not a palindrome.
 57638 is not a palindrome.
 87406 is not a palindrome.
+10030 is not a palindrome.

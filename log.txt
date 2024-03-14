@@ -1017,3 +1017,4 @@
 47878 is not a palindrome.
 67805 is not a palindrome.
 44969 is not a palindrome.
+61672 is not a palindrome.

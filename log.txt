@@ -1019,3 +1019,4 @@
 44969 is not a palindrome.
 61672 is not a palindrome.
 22232 is not a palindrome.
+44792 is not a palindrome.

@@ -1025,3 +1025,4 @@
 47097 is not a palindrome.
 68374 is not a palindrome.
 64584 is not a palindrome.
+70289 is not a palindrome.

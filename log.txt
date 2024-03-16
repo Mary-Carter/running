@@ -1030,3 +1030,4 @@
 31794 is not a palindrome.
 51017 is not a palindrome.
 47504 is not a palindrome.
+80096 is not a palindrome.

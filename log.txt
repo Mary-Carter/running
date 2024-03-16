@@ -1032,3 +1032,4 @@
 47504 is not a palindrome.
 80096 is not a palindrome.
 85361 is not a palindrome.
+17144 is not a palindrome.

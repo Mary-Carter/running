@@ -1039,3 +1039,4 @@
 75347 is not a palindrome.
 59145 is not a palindrome.
 97383 is not a palindrome.
+72866 is not a palindrome.

@@ -1043,3 +1043,4 @@
 77322 is not a palindrome.
 10297 is not a palindrome.
 14729 is not a palindrome.
+26379 is not a palindrome.

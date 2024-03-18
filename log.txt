@@ -1041,3 +1041,4 @@
 97383 is not a palindrome.
 72866 is not a palindrome.
 77322 is not a palindrome.
+10297 is not a palindrome.

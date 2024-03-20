@@ -1054,3 +1054,4 @@
 35572 is not a palindrome.
 10271 is not a palindrome.
 82402 is not a palindrome.
+70073 is not a palindrome.

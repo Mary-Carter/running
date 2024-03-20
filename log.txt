@@ -1053,3 +1053,4 @@
 69105 is not a palindrome.
 35572 is not a palindrome.
 10271 is not a palindrome.
+82402 is not a palindrome.

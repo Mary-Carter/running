@@ -1052,3 +1052,4 @@
 50246 is not a palindrome.
 69105 is not a palindrome.
 35572 is not a palindrome.
+10271 is not a palindrome.

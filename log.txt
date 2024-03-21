@@ -1057,3 +1057,4 @@
 70073 is not a palindrome.
 68668 is not a palindrome.
 30764 is not a palindrome.
+14434 is not a palindrome.

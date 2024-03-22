@@ -1063,3 +1063,4 @@
 66674 is not a palindrome.
 21411 is not a palindrome.
 17119 is not a palindrome.
+51479 is not a palindrome.

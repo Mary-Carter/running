@@ -1065,3 +1065,4 @@
 17119 is not a palindrome.
 51479 is not a palindrome.
 89128 is not a palindrome.
+72695 is not a palindrome.

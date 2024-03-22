@@ -1066,3 +1066,4 @@
 51479 is not a palindrome.
 89128 is not a palindrome.
 72695 is not a palindrome.
+28800 is not a palindrome.

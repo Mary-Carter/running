@@ -1072,3 +1072,4 @@
 81437 is not a palindrome.
 18625 is not a palindrome.
 91166 is not a palindrome.
+25218 is not a palindrome.

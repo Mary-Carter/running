@@ -1070,3 +1070,4 @@
 39917 is not a palindrome.
 44670 is not a palindrome.
 81437 is not a palindrome.
+18625 is not a palindrome.

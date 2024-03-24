@@ -1077,3 +1077,4 @@
 72866 is not a palindrome.
 57907 is not a palindrome.
 88456 is not a palindrome.
+22996 is not a palindrome.

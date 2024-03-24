@@ -1080,3 +1080,4 @@
 22996 is not a palindrome.
 62278 is not a palindrome.
 22232 is not a palindrome.
+94004 is not a palindrome.

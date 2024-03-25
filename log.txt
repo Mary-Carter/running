@@ -1082,3 +1082,4 @@
 22232 is not a palindrome.
 94004 is not a palindrome.
 94106 is not a palindrome.
+48075 is not a palindrome.

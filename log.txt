@@ -1090,3 +1090,4 @@
 92440 is not a palindrome.
 30441 is not a palindrome.
 29830 is not a palindrome.
+97772 is not a palindrome.

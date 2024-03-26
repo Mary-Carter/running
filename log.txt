@@ -1087,3 +1087,4 @@
 36989 is not a palindrome.
 23616 is not a palindrome.
 56047 is not a palindrome.
+92440 is not a palindrome.

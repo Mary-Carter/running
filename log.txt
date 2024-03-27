@@ -1095,3 +1095,4 @@
 99501 is not a palindrome.
 54849 is not a palindrome.
 40382 is not a palindrome.
+90601 is not a palindrome.

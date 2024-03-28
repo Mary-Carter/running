@@ -1102,3 +1102,4 @@
 14341 is a palindrome.
 52933 is not a palindrome.
 44570 is not a palindrome.
+44969 is not a palindrome.

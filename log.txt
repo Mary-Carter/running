@@ -1103,3 +1103,4 @@
 52933 is not a palindrome.
 44570 is not a palindrome.
 44969 is not a palindrome.
+89498 is a palindrome.

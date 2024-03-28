@@ -1100,3 +1100,4 @@
 59438 is not a palindrome.
 74268 is not a palindrome.
 14341 is a palindrome.
+52933 is not a palindrome.

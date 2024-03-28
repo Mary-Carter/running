@@ -1099,3 +1099,4 @@
 98524 is not a palindrome.
 59438 is not a palindrome.
 74268 is not a palindrome.
+14341 is a palindrome.

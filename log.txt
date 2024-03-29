@@ -1105,3 +1105,4 @@
 44969 is not a palindrome.
 89498 is a palindrome.
 38487 is not a palindrome.
+36989 is not a palindrome.

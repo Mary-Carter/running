@@ -1106,3 +1106,4 @@
 89498 is a palindrome.
 38487 is not a palindrome.
 36989 is not a palindrome.
+73813 is not a palindrome.

@@ -1116,3 +1116,4 @@
 18724 is not a palindrome.
 70035 is not a palindrome.
 60857 is not a palindrome.
+72177 is not a palindrome.

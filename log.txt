@@ -1127,3 +1127,4 @@
 78804 is not a palindrome.
 14361 is not a palindrome.
 42302 is not a palindrome.
+85787 is not a palindrome.

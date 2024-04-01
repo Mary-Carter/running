@@ -1126,3 +1126,4 @@
 58922 is not a palindrome.
 78804 is not a palindrome.
 14361 is not a palindrome.
+42302 is not a palindrome.

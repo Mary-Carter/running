@@ -1145,3 +1145,4 @@
 83379 is not a palindrome.
 12972 is not a palindrome.
 56020 is not a palindrome.
+61895 is not a palindrome.

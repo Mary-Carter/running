@@ -1144,3 +1144,4 @@
 17063 is not a palindrome.
 83379 is not a palindrome.
 12972 is not a palindrome.
+56020 is not a palindrome.

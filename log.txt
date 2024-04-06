@@ -1156,3 +1156,4 @@
 77782 is not a palindrome.
 79996 is not a palindrome.
 85931 is not a palindrome.
+75342 is not a palindrome.

@@ -1162,3 +1162,4 @@
 99484 is not a palindrome.
 17063 is not a palindrome.
 58698 is not a palindrome.
+11311 is a palindrome.

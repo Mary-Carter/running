@@ -1165,3 +1165,4 @@
 11311 is a palindrome.
 18306 is not a palindrome.
 33593 is not a palindrome.
+86863 is not a palindrome.

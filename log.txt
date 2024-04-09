@@ -1172,3 +1172,4 @@
 68374 is not a palindrome.
 29405 is not a palindrome.
 72071 is not a palindrome.
+35055 is not a palindrome.

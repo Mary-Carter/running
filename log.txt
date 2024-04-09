@@ -1173,3 +1173,4 @@
 29405 is not a palindrome.
 72071 is not a palindrome.
 35055 is not a palindrome.
+89134 is not a palindrome.

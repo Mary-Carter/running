@@ -1179,3 +1179,4 @@
 17325 is not a palindrome.
 31597 is not a palindrome.
 94509 is not a palindrome.
+70464 is not a palindrome.

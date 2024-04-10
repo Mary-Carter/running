@@ -1180,3 +1180,4 @@
 31597 is not a palindrome.
 94509 is not a palindrome.
 70464 is not a palindrome.
+31593 is not a palindrome.

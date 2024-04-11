@@ -1187,3 +1187,4 @@
 92371 is not a palindrome.
 21553 is not a palindrome.
 75375 is not a palindrome.
+54584 is not a palindrome.

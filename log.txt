@@ -1191,3 +1191,4 @@
 22202 is not a palindrome.
 79996 is not a palindrome.
 16697 is not a palindrome.
+62978 is not a palindrome.

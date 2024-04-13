@@ -1198,3 +1198,4 @@
 54692 is not a palindrome.
 41908 is not a palindrome.
 12585 is not a palindrome.
+51188 is not a palindrome.

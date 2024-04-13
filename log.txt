@@ -1200,3 +1200,4 @@
 12585 is not a palindrome.
 51188 is not a palindrome.
 97660 is not a palindrome.
+85194 is not a palindrome.

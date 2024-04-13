@@ -1197,3 +1197,4 @@
 84067 is not a palindrome.
 54692 is not a palindrome.
 41908 is not a palindrome.
+12585 is not a palindrome.

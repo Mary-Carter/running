@@ -1211,3 +1211,4 @@
 79571 is not a palindrome.
 99484 is not a palindrome.
 85771 is not a palindrome.
+60216 is not a palindrome.

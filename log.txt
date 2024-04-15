@@ -1206,3 +1206,4 @@
 21198 is not a palindrome.
 91787 is not a palindrome.
 84456 is not a palindrome.
+24918 is not a palindrome.

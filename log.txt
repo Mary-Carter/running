@@ -1208,3 +1208,4 @@
 84456 is not a palindrome.
 24918 is not a palindrome.
 54601 is not a palindrome.
+79571 is not a palindrome.

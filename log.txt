@@ -1217,3 +1217,4 @@
 67042 is not a palindrome.
 31873 is not a palindrome.
 23616 is not a palindrome.
+47658 is not a palindrome.

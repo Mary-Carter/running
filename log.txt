@@ -1222,3 +1222,4 @@
 85155 is not a palindrome.
 82253 is not a palindrome.
 29405 is not a palindrome.
+60645 is not a palindrome.

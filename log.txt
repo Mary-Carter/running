@@ -1236,3 +1236,4 @@
 13430 is not a palindrome.
 32407 is not a palindrome.
 57340 is not a palindrome.
+60100 is not a palindrome.

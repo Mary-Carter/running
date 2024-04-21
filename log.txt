@@ -1246,3 +1246,4 @@
 31181 is not a palindrome.
 87994 is not a palindrome.
 83604 is not a palindrome.
+47878 is not a palindrome.

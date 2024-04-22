@@ -1251,3 +1251,4 @@
 54206 is not a palindrome.
 47026 is not a palindrome.
 63011 is not a palindrome.
+82898 is not a palindrome.

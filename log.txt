@@ -1257,3 +1257,4 @@
 42021 is not a palindrome.
 86525 is not a palindrome.
 39559 is not a palindrome.
+28075 is not a palindrome.

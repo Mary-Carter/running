@@ -1255,3 +1255,4 @@
 73813 is not a palindrome.
 61726 is not a palindrome.
 42021 is not a palindrome.
+86525 is not a palindrome.

@@ -1265,3 +1265,4 @@
 18458 is not a palindrome.
 95285 is not a palindrome.
 58667 is not a palindrome.
+56482 is not a palindrome.

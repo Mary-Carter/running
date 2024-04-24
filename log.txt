@@ -1264,3 +1264,4 @@
 77737 is not a palindrome.
 18458 is not a palindrome.
 95285 is not a palindrome.
+58667 is not a palindrome.

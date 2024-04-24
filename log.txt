@@ -1262,3 +1262,4 @@
 35151 is not a palindrome.
 89498 is a palindrome.
 77737 is not a palindrome.
+18458 is not a palindrome.

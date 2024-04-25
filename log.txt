@@ -1269,3 +1269,4 @@
 70993 is not a palindrome.
 51679 is not a palindrome.
 67805 is not a palindrome.
+25317 is not a palindrome.

@@ -1272,3 +1272,4 @@
 25317 is not a palindrome.
 99987 is not a palindrome.
 94009 is not a palindrome.
+71919 is not a palindrome.

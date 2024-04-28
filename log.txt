@@ -1284,3 +1284,4 @@
 55413 is not a palindrome.
 16969 is not a palindrome.
 81557 is not a palindrome.
+61672 is not a palindrome.

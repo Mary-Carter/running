@@ -1289,3 +1289,4 @@
 40049 is not a palindrome.
 36068 is not a palindrome.
 65461 is not a palindrome.
+47026 is not a palindrome.

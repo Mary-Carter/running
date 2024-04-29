@@ -1292,3 +1292,4 @@
 47026 is not a palindrome.
 29120 is not a palindrome.
 87451 is not a palindrome.
+24925 is not a palindrome.

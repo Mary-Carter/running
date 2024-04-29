@@ -1295,3 +1295,4 @@
 24925 is not a palindrome.
 55567 is not a palindrome.
 40382 is not a palindrome.
+51679 is not a palindrome.

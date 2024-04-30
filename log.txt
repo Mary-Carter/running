@@ -1296,3 +1296,4 @@
 55567 is not a palindrome.
 40382 is not a palindrome.
 51679 is not a palindrome.
+25218 is not a palindrome.

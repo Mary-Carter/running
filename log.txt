@@ -1307,3 +1307,4 @@
 83317 is not a palindrome.
 50943 is not a palindrome.
 82099 is not a palindrome.
+47732 is not a palindrome.

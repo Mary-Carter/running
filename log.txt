@@ -1302,3 +1302,4 @@
 90601 is not a palindrome.
 64584 is not a palindrome.
 18299 is not a palindrome.
+67930 is not a palindrome.

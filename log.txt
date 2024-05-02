@@ -1312,3 +1312,4 @@
 53292 is not a palindrome.
 57788 is not a palindrome.
 52691 is not a palindrome.
+13412 is not a palindrome.

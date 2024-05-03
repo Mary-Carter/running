@@ -1315,3 +1315,4 @@
 13412 is not a palindrome.
 73466 is not a palindrome.
 37013 is not a palindrome.
+30718 is not a palindrome.

@@ -1322,3 +1322,4 @@
 66935 is not a palindrome.
 21411 is not a palindrome.
 98350 is not a palindrome.
+54545 is a palindrome.

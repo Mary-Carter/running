@@ -1324,3 +1324,4 @@
 98350 is not a palindrome.
 54545 is a palindrome.
 98959 is not a palindrome.
+64584 is not a palindrome.

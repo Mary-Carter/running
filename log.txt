@@ -1323,3 +1323,4 @@
 21411 is not a palindrome.
 98350 is not a palindrome.
 54545 is a palindrome.
+98959 is not a palindrome.

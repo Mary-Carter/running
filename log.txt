@@ -1329,3 +1329,4 @@
 58922 is not a palindrome.
 70844 is not a palindrome.
 52415 is not a palindrome.
+64766 is not a palindrome.

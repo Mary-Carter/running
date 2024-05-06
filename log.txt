@@ -1332,3 +1332,4 @@
 64766 is not a palindrome.
 87406 is not a palindrome.
 39877 is not a palindrome.
+78530 is not a palindrome.

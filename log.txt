@@ -1339,3 +1339,4 @@
 63251 is not a palindrome.
 81728 is not a palindrome.
 10546 is not a palindrome.
+51679 is not a palindrome.

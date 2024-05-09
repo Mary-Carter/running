@@ -1355,3 +1355,4 @@
 43896 is not a palindrome.
 28075 is not a palindrome.
 76326 is not a palindrome.
+71022 is not a palindrome.

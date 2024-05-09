@@ -1352,3 +1352,4 @@
 62399 is not a palindrome.
 41471 is not a palindrome.
 48927 is not a palindrome.
+43896 is not a palindrome.

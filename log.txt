@@ -1350,3 +1350,4 @@
 16027 is not a palindrome.
 13705 is not a palindrome.
 62399 is not a palindrome.
+41471 is not a palindrome.

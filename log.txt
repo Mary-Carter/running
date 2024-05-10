@@ -1360,3 +1360,4 @@
 38822 is not a palindrome.
 95285 is not a palindrome.
 23163 is not a palindrome.
+70869 is not a palindrome.

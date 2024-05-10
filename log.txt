@@ -1357,3 +1357,4 @@
 76326 is not a palindrome.
 71022 is not a palindrome.
 80168 is not a palindrome.
+38822 is not a palindrome.

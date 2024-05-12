@@ -1371,3 +1371,4 @@
 67042 is not a palindrome.
 68374 is not a palindrome.
 17838 is not a palindrome.
+71143 is not a palindrome.

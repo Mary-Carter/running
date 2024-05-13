@@ -1377,3 +1377,4 @@
 13601 is not a palindrome.
 79784 is not a palindrome.
 67766 is not a palindrome.
+71140 is not a palindrome.

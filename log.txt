@@ -1376,3 +1376,4 @@
 19890 is not a palindrome.
 13601 is not a palindrome.
 79784 is not a palindrome.
+67766 is not a palindrome.

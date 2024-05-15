@@ -1390,3 +1390,4 @@
 26525 is not a palindrome.
 13766 is not a palindrome.
 37422 is not a palindrome.
+14732 is not a palindrome.

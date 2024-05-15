@@ -1387,3 +1387,4 @@
 68668 is not a palindrome.
 13705 is not a palindrome.
 28976 is not a palindrome.
+26525 is not a palindrome.

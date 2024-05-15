@@ -1389,3 +1389,4 @@
 28976 is not a palindrome.
 26525 is not a palindrome.
 13766 is not a palindrome.
+37422 is not a palindrome.

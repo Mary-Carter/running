@@ -1400,3 +1400,4 @@
 28075 is not a palindrome.
 13430 is not a palindrome.
 90092 is not a palindrome.
+12310 is not a palindrome.

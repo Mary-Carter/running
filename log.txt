@@ -1398,3 +1398,4 @@
 54753 is not a palindrome.
 28050 is not a palindrome.
 28075 is not a palindrome.
+13430 is not a palindrome.

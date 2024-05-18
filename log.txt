@@ -1408,3 +1408,4 @@
 50105 is a palindrome.
 82911 is not a palindrome.
 44570 is not a palindrome.
+80873 is not a palindrome.

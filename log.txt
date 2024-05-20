@@ -1421,3 +1421,4 @@
 70850 is not a palindrome.
 57340 is not a palindrome.
 47504 is not a palindrome.
+11311 is a palindrome.

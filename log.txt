@@ -1436,3 +1436,4 @@
 16604 is not a palindrome.
 60753 is not a palindrome.
 64574 is not a palindrome.
+47878 is not a palindrome.

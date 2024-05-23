@@ -1434,3 +1434,4 @@
 23129 is not a palindrome.
 64545 is not a palindrome.
 16604 is not a palindrome.
+60753 is not a palindrome.

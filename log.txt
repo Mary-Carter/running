@@ -1443,3 +1443,4 @@
 44337 is not a palindrome.
 90092 is not a palindrome.
 97931 is not a palindrome.
+25727 is not a palindrome.

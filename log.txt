@@ -1452,3 +1452,4 @@
 54778 is not a palindrome.
 22642 is not a palindrome.
 11197 is not a palindrome.
+25962 is not a palindrome.

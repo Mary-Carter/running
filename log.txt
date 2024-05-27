@@ -1459,3 +1459,4 @@
 23163 is not a palindrome.
 90083 is not a palindrome.
 42909 is not a palindrome.
+40704 is a palindrome.

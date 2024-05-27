@@ -1461,3 +1461,4 @@
 42909 is not a palindrome.
 40704 is a palindrome.
 63961 is not a palindrome.
+86976 is not a palindrome.

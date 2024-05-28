@@ -1469,3 +1469,4 @@
 23963 is not a palindrome.
 57063 is not a palindrome.
 20626 is not a palindrome.
+14732 is not a palindrome.

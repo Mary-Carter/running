@@ -1472,3 +1472,4 @@
 14732 is not a palindrome.
 55306 is not a palindrome.
 37239 is not a palindrome.
+79571 is not a palindrome.

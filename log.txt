@@ -1477,3 +1477,4 @@
 96658 is not a palindrome.
 33227 is not a palindrome.
 49079 is not a palindrome.
+58706 is not a palindrome.

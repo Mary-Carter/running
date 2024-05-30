@@ -1480,3 +1480,4 @@
 58706 is not a palindrome.
 95080 is not a palindrome.
 76755 is not a palindrome.
+24925 is not a palindrome.

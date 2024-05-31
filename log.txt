@@ -1484,3 +1484,4 @@
 49995 is not a palindrome.
 80216 is not a palindrome.
 27646 is not a palindrome.
+27822 is not a palindrome.

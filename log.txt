@@ -1489,3 +1489,4 @@
 29120 is not a palindrome.
 65997 is not a palindrome.
 79252 is not a palindrome.
+50478 is not a palindrome.

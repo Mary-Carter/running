@@ -1499,3 +1499,4 @@
 35342 is not a palindrome.
 35840 is not a palindrome.
 47026 is not a palindrome.
+10466 is not a palindrome.

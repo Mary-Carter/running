@@ -1496,3 +1496,4 @@
 39877 is not a palindrome.
 85268 is not a palindrome.
 58698 is not a palindrome.
+35342 is not a palindrome.

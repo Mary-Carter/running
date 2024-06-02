@@ -1494,3 +1494,4 @@
 85771 is not a palindrome.
 67766 is not a palindrome.
 39877 is not a palindrome.
+85268 is not a palindrome.

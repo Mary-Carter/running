@@ -1512,3 +1512,4 @@
 32820 is not a palindrome.
 67930 is not a palindrome.
 56289 is not a palindrome.
+19751 is not a palindrome.

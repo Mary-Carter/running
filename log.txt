@@ -1513,3 +1513,4 @@
 67930 is not a palindrome.
 56289 is not a palindrome.
 19751 is not a palindrome.
+71025 is not a palindrome.

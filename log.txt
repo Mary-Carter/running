@@ -1523,3 +1523,4 @@
 37776 is not a palindrome.
 24925 is not a palindrome.
 52798 is not a palindrome.
+52415 is not a palindrome.

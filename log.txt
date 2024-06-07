@@ -1524,3 +1524,4 @@
 24925 is not a palindrome.
 52798 is not a palindrome.
 52415 is not a palindrome.
+28906 is not a palindrome.

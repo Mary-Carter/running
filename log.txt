@@ -1547,3 +1547,4 @@
 74755 is not a palindrome.
 61239 is not a palindrome.
 92705 is not a palindrome.
+45073 is not a palindrome.

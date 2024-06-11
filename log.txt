@@ -1552,3 +1552,4 @@
 96651 is not a palindrome.
 16617 is not a palindrome.
 24180 is not a palindrome.
+71143 is not a palindrome.

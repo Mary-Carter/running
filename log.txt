@@ -1554,3 +1554,4 @@
 24180 is not a palindrome.
 71143 is not a palindrome.
 17501 is not a palindrome.
+96829 is not a palindrome.

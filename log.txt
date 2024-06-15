@@ -1574,3 +1574,4 @@
 62395 is not a palindrome.
 47779 is not a palindrome.
 51679 is not a palindrome.
+58732 is not a palindrome.

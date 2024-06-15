@@ -1572,3 +1572,4 @@
 89134 is not a palindrome.
 98409 is not a palindrome.
 62395 is not a palindrome.
+47779 is not a palindrome.

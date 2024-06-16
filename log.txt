@@ -1582,3 +1582,4 @@
 29727 is not a palindrome.
 77322 is not a palindrome.
 63961 is not a palindrome.
+58706 is not a palindrome.

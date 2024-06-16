@@ -1578,3 +1578,4 @@
 51479 is not a palindrome.
 65164 is not a palindrome.
 91201 is not a palindrome.
+52415 is not a palindrome.

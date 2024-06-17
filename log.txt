@@ -1588,3 +1588,4 @@
 81844 is not a palindrome.
 21553 is not a palindrome.
 85194 is not a palindrome.
+10297 is not a palindrome.

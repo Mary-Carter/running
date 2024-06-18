@@ -1590,3 +1590,4 @@
 85194 is not a palindrome.
 10297 is not a palindrome.
 44284 is not a palindrome.
+22239 is not a palindrome.

@@ -1598,3 +1598,4 @@
 90092 is not a palindrome.
 88516 is not a palindrome.
 89202 is not a palindrome.
+44670 is not a palindrome.

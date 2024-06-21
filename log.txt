@@ -1608,3 +1608,4 @@
 20626 is not a palindrome.
 88306 is not a palindrome.
 51635 is not a palindrome.
+25229 is not a palindrome.

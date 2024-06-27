@@ -1647,3 +1647,4 @@
 69501 is not a palindrome.
 42909 is not a palindrome.
 97146 is not a palindrome.
+81023 is not a palindrome.

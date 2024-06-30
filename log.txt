@@ -1663,3 +1663,4 @@
 22766 is not a palindrome.
 53292 is not a palindrome.
 71464 is not a palindrome.
+26747 is not a palindrome.

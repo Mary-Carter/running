@@ -1672,3 +1672,4 @@
 36989 is not a palindrome.
 90217 is not a palindrome.
 60100 is not a palindrome.
+19696 is not a palindrome.

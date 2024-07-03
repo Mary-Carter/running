@@ -1679,3 +1679,4 @@
 76755 is not a palindrome.
 23525 is not a palindrome.
 54417 is not a palindrome.
+12972 is not a palindrome.

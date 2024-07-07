@@ -1708,3 +1708,4 @@
 45416 is not a palindrome.
 32477 is not a palindrome.
 84908 is not a palindrome.
+59042 is not a palindrome.

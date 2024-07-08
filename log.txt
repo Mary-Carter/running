@@ -1711,3 +1711,4 @@
 59042 is not a palindrome.
 77782 is not a palindrome.
 62557 is not a palindrome.
+82253 is not a palindrome.

@@ -1709,3 +1709,4 @@
 32477 is not a palindrome.
 84908 is not a palindrome.
 59042 is not a palindrome.
+77782 is not a palindrome.

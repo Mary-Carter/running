@@ -1717,3 +1717,4 @@
 39059 is not a palindrome.
 85771 is not a palindrome.
 41989 is not a palindrome.
+52798 is not a palindrome.

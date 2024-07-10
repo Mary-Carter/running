@@ -1726,3 +1726,4 @@
 93351 is not a palindrome.
 38661 is not a palindrome.
 36585 is not a palindrome.
+18625 is not a palindrome.

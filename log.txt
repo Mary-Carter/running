@@ -1752,3 +1752,4 @@
 91721 is not a palindrome.
 76947 is not a palindrome.
 61895 is not a palindrome.
+60100 is not a palindrome.

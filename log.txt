@@ -1760,3 +1760,4 @@
 41577 is not a palindrome.
 95067 is not a palindrome.
 19164 is not a palindrome.
+12520 is not a palindrome.

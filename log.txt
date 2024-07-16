@@ -1758,3 +1758,4 @@
 21006 is not a palindrome.
 65997 is not a palindrome.
 41577 is not a palindrome.
+95067 is not a palindrome.

@@ -1763,3 +1763,4 @@
 12520 is not a palindrome.
 21198 is not a palindrome.
 13065 is not a palindrome.
+79005 is not a palindrome.

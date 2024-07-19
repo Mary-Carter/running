@@ -1779,3 +1779,4 @@
 98801 is not a palindrome.
 63290 is not a palindrome.
 75153 is not a palindrome.
+25759 is not a palindrome.

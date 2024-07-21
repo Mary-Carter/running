@@ -1788,3 +1788,4 @@
 35398 is not a palindrome.
 12795 is not a palindrome.
 70035 is not a palindrome.
+42564 is not a palindrome.

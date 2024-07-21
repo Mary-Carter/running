@@ -1789,3 +1789,4 @@
 12795 is not a palindrome.
 70035 is not a palindrome.
 42564 is not a palindrome.
+12738 is not a palindrome.

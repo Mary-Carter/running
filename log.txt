@@ -1802,3 +1802,4 @@
 48675 is not a palindrome.
 33937 is not a palindrome.
 67930 is not a palindrome.
+30522 is not a palindrome.

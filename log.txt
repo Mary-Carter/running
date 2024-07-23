@@ -1799,3 +1799,4 @@
 42154 is not a palindrome.
 35746 is not a palindrome.
 69356 is not a palindrome.
+48675 is not a palindrome.

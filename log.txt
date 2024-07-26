@@ -1821,3 +1821,4 @@
 14729 is not a palindrome.
 46249 is not a palindrome.
 54584 is not a palindrome.
+12972 is not a palindrome.

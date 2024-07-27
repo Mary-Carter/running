@@ -1823,3 +1823,4 @@
 54584 is not a palindrome.
 12972 is not a palindrome.
 76326 is not a palindrome.
+10466 is not a palindrome.

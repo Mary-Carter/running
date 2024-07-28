@@ -1828,3 +1828,4 @@
 81682 is not a palindrome.
 83014 is not a palindrome.
 79923 is not a palindrome.
+26959 is not a palindrome.

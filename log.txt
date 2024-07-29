@@ -1839,3 +1839,4 @@
 53019 is not a palindrome.
 12576 is not a palindrome.
 35398 is not a palindrome.
+45073 is not a palindrome.

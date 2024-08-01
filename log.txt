@@ -1853,3 +1853,4 @@
 71953 is not a palindrome.
 62684 is not a palindrome.
 53684 is not a palindrome.
+25218 is not a palindrome.

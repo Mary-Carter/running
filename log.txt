@@ -1857,3 +1857,4 @@
 79996 is not a palindrome.
 83346 is not a palindrome.
 25889 is not a palindrome.
+98959 is not a palindrome.

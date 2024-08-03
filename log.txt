@@ -1864,3 +1864,4 @@
 17763 is not a palindrome.
 72071 is not a palindrome.
 75347 is not a palindrome.
+23993 is not a palindrome.

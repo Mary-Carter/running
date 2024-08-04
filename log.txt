@@ -1875,3 +1875,4 @@
 18458 is not a palindrome.
 62395 is not a palindrome.
 10320 is not a palindrome.
+47679 is not a palindrome.

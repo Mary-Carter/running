@@ -1879,3 +1879,4 @@
 21341 is not a palindrome.
 43494 is not a palindrome.
 54482 is not a palindrome.
+18154 is not a palindrome.

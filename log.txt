@@ -1890,3 +1890,4 @@
 69216 is not a palindrome.
 75305 is not a palindrome.
 23367 is not a palindrome.
+70869 is not a palindrome.

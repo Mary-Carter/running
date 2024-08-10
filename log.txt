@@ -1909,3 +1909,4 @@
 16617 is not a palindrome.
 13669 is not a palindrome.
 10320 is not a palindrome.
+45254 is a palindrome.

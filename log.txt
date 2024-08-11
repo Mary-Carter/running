@@ -1913,3 +1913,4 @@
 97505 is not a palindrome.
 64545 is not a palindrome.
 66378 is not a palindrome.
+71718 is not a palindrome.

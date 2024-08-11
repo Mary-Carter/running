@@ -1912,3 +1912,4 @@
 45254 is a palindrome.
 97505 is not a palindrome.
 64545 is not a palindrome.
+66378 is not a palindrome.

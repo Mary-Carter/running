@@ -1917,3 +1917,4 @@
 57600 is not a palindrome.
 17999 is not a palindrome.
 74333 is not a palindrome.
+93696 is not a palindrome.

@@ -1944,3 +1944,4 @@
 21006 is not a palindrome.
 11311 is a palindrome.
 99987 is not a palindrome.
+32443 is not a palindrome.

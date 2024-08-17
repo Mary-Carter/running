@@ -1953,3 +1953,4 @@
 12721 is a palindrome.
 86963 is not a palindrome.
 27787 is not a palindrome.
+58730 is not a palindrome.

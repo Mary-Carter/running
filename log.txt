@@ -1951,3 +1951,4 @@
 16617 is not a palindrome.
 42303 is not a palindrome.
 12721 is a palindrome.
+86963 is not a palindrome.

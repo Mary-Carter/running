@@ -1950,3 +1950,4 @@
 48330 is not a palindrome.
 16617 is not a palindrome.
 42303 is not a palindrome.
+12721 is a palindrome.

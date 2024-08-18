@@ -1958,3 +1958,4 @@
 21617 is not a palindrome.
 69216 is not a palindrome.
 52933 is not a palindrome.
+12795 is not a palindrome.

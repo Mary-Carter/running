@@ -1977,3 +1977,4 @@
 36876 is not a palindrome.
 11197 is not a palindrome.
 19483 is not a palindrome.
+49490 is not a palindrome.

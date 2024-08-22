@@ -1982,3 +1982,4 @@
 81557 is not a palindrome.
 89040 is not a palindrome.
 44012 is not a palindrome.
+85055 is not a palindrome.

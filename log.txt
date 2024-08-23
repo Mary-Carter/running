@@ -1984,3 +1984,4 @@
 44012 is not a palindrome.
 85055 is not a palindrome.
 30567 is not a palindrome.
+72866 is not a palindrome.

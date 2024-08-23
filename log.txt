@@ -1987,3 +1987,4 @@
 72866 is not a palindrome.
 41908 is not a palindrome.
 70035 is not a palindrome.
+66378 is not a palindrome.

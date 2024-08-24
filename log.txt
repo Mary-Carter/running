@@ -1994,3 +1994,4 @@
 38253 is not a palindrome.
 10271 is not a palindrome.
 92669 is not a palindrome.
+86863 is not a palindrome.

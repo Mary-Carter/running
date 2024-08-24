@@ -1992,3 +1992,4 @@
 25426 is not a palindrome.
 94009 is not a palindrome.
 38253 is not a palindrome.
+10271 is not a palindrome.

@@ -2000,3 +2000,4 @@
 71635 is not a palindrome.
 27704 is not a palindrome.
 41419 is not a palindrome.
+22642 is not a palindrome.

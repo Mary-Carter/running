@@ -2007,3 +2007,4 @@
 56020 is not a palindrome.
 21360 is not a palindrome.
 64421 is not a palindrome.
+25317 is not a palindrome.

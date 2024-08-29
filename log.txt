@@ -2022,3 +2022,4 @@
 99501 is not a palindrome.
 30760 is not a palindrome.
 46249 is not a palindrome.
+12520 is not a palindrome.

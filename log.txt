@@ -2027,3 +2027,4 @@
 13558 is not a palindrome.
 39113 is not a palindrome.
 83573 is not a palindrome.
+47026 is not a palindrome.

@@ -2090,3 +2090,4 @@
 64725 is not a palindrome.
 41594 is not a palindrome.
 71025 is not a palindrome.
+86976 is not a palindrome.

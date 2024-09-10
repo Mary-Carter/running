@@ -2094,3 +2094,4 @@
 94911 is not a palindrome.
 24068 is not a palindrome.
 25962 is not a palindrome.
+52224 is not a palindrome.

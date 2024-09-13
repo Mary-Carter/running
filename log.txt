@@ -2115,3 +2115,4 @@
 10010 is not a palindrome.
 13705 is not a palindrome.
 70993 is not a palindrome.
+50943 is not a palindrome.

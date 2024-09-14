@@ -2116,3 +2116,4 @@
 13705 is not a palindrome.
 70993 is not a palindrome.
 50943 is not a palindrome.
+18724 is not a palindrome.

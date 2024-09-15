@@ -2124,3 +2124,4 @@
 61001 is not a palindrome.
 48764 is not a palindrome.
 55075 is not a palindrome.
+60100 is not a palindrome.

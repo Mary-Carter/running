@@ -2133,3 +2133,4 @@
 94458 is not a palindrome.
 12576 is not a palindrome.
 71140 is not a palindrome.
+70035 is not a palindrome.

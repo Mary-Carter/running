@@ -2134,3 +2134,4 @@
 12576 is not a palindrome.
 71140 is not a palindrome.
 70035 is not a palindrome.
+82827 is not a palindrome.

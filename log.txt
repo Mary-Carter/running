@@ -2144,3 +2144,4 @@
 23729 is not a palindrome.
 33660 is not a palindrome.
 56020 is not a palindrome.
+24918 is not a palindrome.

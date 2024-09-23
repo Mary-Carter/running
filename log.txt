@@ -2171,3 +2171,4 @@
 93716 is not a palindrome.
 36068 is not a palindrome.
 40049 is not a palindrome.
+40704 is a palindrome.

@@ -2204,3 +2204,4 @@
 88306 is not a palindrome.
 53192 is not a palindrome.
 19727 is not a palindrome.
+10596 is not a palindrome.

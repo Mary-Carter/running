@@ -2217,3 +2217,4 @@
 82099 is not a palindrome.
 70844 is not a palindrome.
 81504 is not a palindrome.
+70779 is not a palindrome.

@@ -2215,3 +2215,4 @@
 62055 is not a palindrome.
 25008 is not a palindrome.
 82099 is not a palindrome.
+70844 is not a palindrome.

@@ -2226,3 +2226,4 @@
 23131 is not a palindrome.
 25889 is not a palindrome.
 35746 is not a palindrome.
+58706 is not a palindrome.

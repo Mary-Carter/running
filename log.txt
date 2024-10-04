@@ -2236,3 +2236,4 @@
 81594 is not a palindrome.
 19736 is not a palindrome.
 63302 is not a palindrome.
+54206 is not a palindrome.

@@ -2257,3 +2257,4 @@
 95392 is not a palindrome.
 30518 is not a palindrome.
 85268 is not a palindrome.
+22996 is not a palindrome.

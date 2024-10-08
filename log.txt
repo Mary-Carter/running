@@ -2262,3 +2262,4 @@
 17838 is not a palindrome.
 57340 is not a palindrome.
 24918 is not a palindrome.
+24925 is not a palindrome.

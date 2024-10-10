@@ -2275,3 +2275,4 @@
 71701 is not a palindrome.
 65459 is not a palindrome.
 66099 is not a palindrome.
+94106 is not a palindrome.

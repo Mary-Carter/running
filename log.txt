@@ -2282,3 +2282,4 @@
 31561 is not a palindrome.
 29405 is not a palindrome.
 69138 is not a palindrome.
+24918 is not a palindrome.

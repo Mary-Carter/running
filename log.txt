@@ -2286,3 +2286,4 @@
 45567 is not a palindrome.
 83106 is not a palindrome.
 40382 is not a palindrome.
+27822 is not a palindrome.

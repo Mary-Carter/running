@@ -2295,3 +2295,4 @@
 94954 is not a palindrome.
 87406 is not a palindrome.
 13412 is not a palindrome.
+49995 is not a palindrome.

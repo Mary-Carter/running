@@ -2336,3 +2336,4 @@
 24918 is not a palindrome.
 36982 is not a palindrome.
 71009 is not a palindrome.
+86206 is not a palindrome.

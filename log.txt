@@ -2350,3 +2350,4 @@
 44452 is not a palindrome.
 54584 is not a palindrome.
 47658 is not a palindrome.
+48855 is not a palindrome.

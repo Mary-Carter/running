@@ -2361,3 +2361,4 @@
 95067 is not a palindrome.
 83080 is not a palindrome.
 91166 is not a palindrome.
+25889 is not a palindrome.

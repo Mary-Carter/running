@@ -2370,3 +2370,4 @@
 74289 is not a palindrome.
 70073 is not a palindrome.
 22232 is not a palindrome.
+70464 is not a palindrome.

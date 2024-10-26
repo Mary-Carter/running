@@ -2368,3 +2368,4 @@
 83317 is not a palindrome.
 86909 is not a palindrome.
 74289 is not a palindrome.
+70073 is not a palindrome.

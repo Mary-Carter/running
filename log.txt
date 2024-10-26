@@ -2372,3 +2372,4 @@
 22232 is not a palindrome.
 70464 is not a palindrome.
 48198 is not a palindrome.
+88306 is not a palindrome.

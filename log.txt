@@ -2386,3 +2386,4 @@
 29830 is not a palindrome.
 43779 is not a palindrome.
 35788 is not a palindrome.
+95498 is not a palindrome.

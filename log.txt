@@ -2399,3 +2399,4 @@
 61001 is not a palindrome.
 30740 is not a palindrome.
 10546 is not a palindrome.
+60645 is not a palindrome.

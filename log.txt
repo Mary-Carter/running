@@ -2421,3 +2421,4 @@
 60857 is not a palindrome.
 98524 is not a palindrome.
 99175 is not a palindrome.
+62278 is not a palindrome.

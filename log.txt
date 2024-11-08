@@ -2451,3 +2451,4 @@
 22766 is not a palindrome.
 93716 is not a palindrome.
 47779 is not a palindrome.
+86525 is not a palindrome.

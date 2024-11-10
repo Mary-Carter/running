@@ -2458,3 +2458,4 @@
 77322 is not a palindrome.
 44750 is not a palindrome.
 45416 is not a palindrome.
+82212 is not a palindrome.

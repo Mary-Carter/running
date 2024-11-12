@@ -2474,3 +2474,4 @@
 15748 is not a palindrome.
 16617 is not a palindrome.
 41471 is not a palindrome.
+54482 is not a palindrome.

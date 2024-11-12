@@ -2473,3 +2473,4 @@
 71140 is not a palindrome.
 15748 is not a palindrome.
 16617 is not a palindrome.
+41471 is not a palindrome.

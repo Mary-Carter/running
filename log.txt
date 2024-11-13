@@ -2477,3 +2477,4 @@
 54482 is not a palindrome.
 47878 is not a palindrome.
 27704 is not a palindrome.
+48880 is not a palindrome.

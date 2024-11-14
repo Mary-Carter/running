@@ -2482,3 +2482,4 @@
 26747 is not a palindrome.
 82331 is not a palindrome.
 83080 is not a palindrome.
+13412 is not a palindrome.

@@ -2487,3 +2487,4 @@
 61603 is not a palindrome.
 93696 is not a palindrome.
 48330 is not a palindrome.
+30760 is not a palindrome.

@@ -2496,3 +2496,4 @@
 10010 is not a palindrome.
 99484 is not a palindrome.
 67859 is not a palindrome.
+59525 is not a palindrome.

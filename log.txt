@@ -2494,3 +2494,4 @@
 35342 is not a palindrome.
 80897 is not a palindrome.
 10010 is not a palindrome.
+99484 is not a palindrome.

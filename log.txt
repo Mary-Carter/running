@@ -2507,3 +2507,4 @@
 19795 is not a palindrome.
 96658 is not a palindrome.
 97931 is not a palindrome.
+99484 is not a palindrome.

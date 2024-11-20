@@ -2523,3 +2523,4 @@
 26747 is not a palindrome.
 85055 is not a palindrome.
 40337 is not a palindrome.
+70993 is not a palindrome.

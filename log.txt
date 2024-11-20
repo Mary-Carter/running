@@ -2521,3 +2521,4 @@
 77966 is not a palindrome.
 38253 is not a palindrome.
 26747 is not a palindrome.
+85055 is not a palindrome.

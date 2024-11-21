@@ -2526,3 +2526,4 @@
 70993 is not a palindrome.
 38069 is not a palindrome.
 95773 is not a palindrome.
+19589 is not a palindrome.

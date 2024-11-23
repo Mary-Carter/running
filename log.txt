@@ -2540,3 +2540,4 @@
 27608 is not a palindrome.
 50556 is not a palindrome.
 84698 is not a palindrome.
+72177 is not a palindrome.

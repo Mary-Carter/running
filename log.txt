@@ -2541,3 +2541,4 @@
 50556 is not a palindrome.
 84698 is not a palindrome.
 72177 is not a palindrome.
+27822 is not a palindrome.

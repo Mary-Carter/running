@@ -2569,3 +2569,4 @@
 90487 is not a palindrome.
 40699 is not a palindrome.
 68238 is not a palindrome.
+12520 is not a palindrome.

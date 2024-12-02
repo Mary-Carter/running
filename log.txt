@@ -2593,3 +2593,4 @@
 71009 is not a palindrome.
 65704 is not a palindrome.
 49802 is not a palindrome.
+70289 is not a palindrome.

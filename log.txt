@@ -2600,3 +2600,4 @@
 98050 is not a palindrome.
 41419 is not a palindrome.
 95289 is not a palindrome.
+67887 is not a palindrome.

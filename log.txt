@@ -2605,3 +2605,4 @@
 35788 is not a palindrome.
 25113 is not a palindrome.
 13065 is not a palindrome.
+93696 is not a palindrome.

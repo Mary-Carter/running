@@ -2606,3 +2606,4 @@
 25113 is not a palindrome.
 13065 is not a palindrome.
 93696 is not a palindrome.
+35242 is not a palindrome.

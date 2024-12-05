@@ -2613,3 +2613,4 @@
 45254 is a palindrome.
 87994 is not a palindrome.
 16697 is not a palindrome.
+22766 is not a palindrome.

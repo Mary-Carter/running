@@ -2636,3 +2636,4 @@
 23729 is not a palindrome.
 91728 is not a palindrome.
 32737 is not a palindrome.
+60248 is not a palindrome.

@@ -2645,3 +2645,4 @@
 71464 is not a palindrome.
 95308 is not a palindrome.
 93104 is not a palindrome.
+21242 is not a palindrome.

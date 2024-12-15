@@ -2673,3 +2673,4 @@
 66935 is not a palindrome.
 26728 is not a palindrome.
 12227 is not a palindrome.
+50705 is a palindrome.

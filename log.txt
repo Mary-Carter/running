@@ -2672,3 +2672,4 @@
 97945 is not a palindrome.
 66935 is not a palindrome.
 26728 is not a palindrome.
+12227 is not a palindrome.

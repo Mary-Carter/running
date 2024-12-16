@@ -2675,3 +2675,4 @@
 12227 is not a palindrome.
 50705 is a palindrome.
 49995 is not a palindrome.
+39736 is not a palindrome.

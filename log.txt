@@ -2688,3 +2688,4 @@
 61001 is not a palindrome.
 87319 is not a palindrome.
 53292 is not a palindrome.
+82860 is not a palindrome.

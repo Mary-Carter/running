@@ -2693,3 +2693,4 @@
 82860 is not a palindrome.
 30522 is not a palindrome.
 78077 is not a palindrome.
+38253 is not a palindrome.

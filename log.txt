@@ -2697,3 +2697,4 @@
 41419 is not a palindrome.
 10926 is not a palindrome.
 23525 is not a palindrome.
+82276 is not a palindrome.

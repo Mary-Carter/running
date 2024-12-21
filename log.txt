@@ -2708,3 +2708,4 @@
 62125 is not a palindrome.
 23993 is not a palindrome.
 97773 is not a palindrome.
+95067 is not a palindrome.

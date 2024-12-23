@@ -2719,3 +2719,4 @@
 95392 is not a palindrome.
 72923 is not a palindrome.
 60216 is not a palindrome.
+28976 is not a palindrome.

@@ -2716,3 +2716,4 @@
 76755 is not a palindrome.
 69501 is not a palindrome.
 26174 is not a palindrome.
+95392 is not a palindrome.

@@ -2725,3 +2725,4 @@
 23525 is not a palindrome.
 91787 is not a palindrome.
 80436 is not a palindrome.
+60216 is not a palindrome.

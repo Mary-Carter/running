@@ -2739,3 +2739,4 @@
 21198 is not a palindrome.
 83379 is not a palindrome.
 45254 is a palindrome.
+98966 is not a palindrome.

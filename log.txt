@@ -2767,3 +2767,4 @@
 35389 is not a palindrome.
 21242 is not a palindrome.
 87451 is not a palindrome.
+24068 is not a palindrome.

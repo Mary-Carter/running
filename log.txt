@@ -2782,3 +2782,4 @@
 23163 is not a palindrome.
 16653 is not a palindrome.
 85177 is not a palindrome.
+61672 is not a palindrome.

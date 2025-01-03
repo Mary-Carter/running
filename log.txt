@@ -2785,3 +2785,4 @@
 61672 is not a palindrome.
 51307 is not a palindrome.
 47658 is not a palindrome.
+25962 is not a palindrome.

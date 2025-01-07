@@ -2808,3 +2808,4 @@
 54227 is not a palindrome.
 35242 is not a palindrome.
 17325 is not a palindrome.
+70993 is not a palindrome.

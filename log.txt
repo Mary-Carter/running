@@ -2806,3 +2806,4 @@
 31561 is not a palindrome.
 23053 is not a palindrome.
 54227 is not a palindrome.
+35242 is not a palindrome.

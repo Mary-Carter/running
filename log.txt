@@ -2810,3 +2810,4 @@
 17325 is not a palindrome.
 70993 is not a palindrome.
 71250 is not a palindrome.
+95498 is not a palindrome.

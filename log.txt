@@ -2818,3 +2818,4 @@
 24632 is not a palindrome.
 85664 is not a palindrome.
 39926 is not a palindrome.
+35788 is not a palindrome.

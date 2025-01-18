@@ -2876,3 +2876,4 @@
 31048 is not a palindrome.
 45710 is not a palindrome.
 19696 is not a palindrome.
+42307 is not a palindrome.

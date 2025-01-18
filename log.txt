@@ -2875,3 +2875,4 @@
 73466 is not a palindrome.
 31048 is not a palindrome.
 45710 is not a palindrome.
+19696 is not a palindrome.

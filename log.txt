@@ -2878,3 +2878,4 @@
 19696 is not a palindrome.
 42307 is not a palindrome.
 13669 is not a palindrome.
+98524 is not a palindrome.

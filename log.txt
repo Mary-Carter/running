@@ -2880,3 +2880,4 @@
 13669 is not a palindrome.
 98524 is not a palindrome.
 83317 is not a palindrome.
+42303 is not a palindrome.

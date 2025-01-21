@@ -2891,3 +2891,4 @@
 71161 is not a palindrome.
 86385 is not a palindrome.
 74031 is not a palindrome.
+82253 is not a palindrome.

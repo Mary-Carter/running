@@ -2895,3 +2895,4 @@
 71250 is not a palindrome.
 54692 is not a palindrome.
 35104 is not a palindrome.
+18154 is not a palindrome.

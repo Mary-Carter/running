@@ -2916,3 +2916,4 @@
 28976 is not a palindrome.
 45254 is a palindrome.
 40190 is not a palindrome.
+71718 is not a palindrome.

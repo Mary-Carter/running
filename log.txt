@@ -2923,3 +2923,4 @@
 10271 is not a palindrome.
 78804 is not a palindrome.
 30740 is not a palindrome.
+25426 is not a palindrome.

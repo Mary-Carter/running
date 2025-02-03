@@ -2972,3 +2972,4 @@
 19241 is not a palindrome.
 82671 is not a palindrome.
 82898 is not a palindrome.
+51874 is not a palindrome.

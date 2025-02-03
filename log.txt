@@ -2970,3 +2970,4 @@
 85177 is not a palindrome.
 82099 is not a palindrome.
 19241 is not a palindrome.
+82671 is not a palindrome.

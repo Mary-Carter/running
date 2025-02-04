@@ -2974,3 +2974,4 @@
 82898 is not a palindrome.
 51874 is not a palindrome.
 47701 is not a palindrome.
+12738 is not a palindrome.

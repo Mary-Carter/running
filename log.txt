@@ -2983,3 +2983,4 @@
 19351 is not a palindrome.
 29405 is not a palindrome.
 92705 is not a palindrome.
+12585 is not a palindrome.

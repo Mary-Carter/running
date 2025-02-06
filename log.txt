@@ -2990,3 +2990,4 @@
 89128 is not a palindrome.
 81672 is not a palindrome.
 89134 is not a palindrome.
+54545 is a palindrome.

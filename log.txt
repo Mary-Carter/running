@@ -2993,3 +2993,4 @@
 54545 is a palindrome.
 42564 is not a palindrome.
 36199 is not a palindrome.
+26180 is not a palindrome.

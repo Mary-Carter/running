@@ -3004,3 +3004,4 @@
 88591 is not a palindrome.
 32702 is not a palindrome.
 19589 is not a palindrome.
+40704 is a palindrome.

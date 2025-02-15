@@ -3040,3 +3040,4 @@
 66099 is not a palindrome.
 69010 is not a palindrome.
 37776 is not a palindrome.
+12576 is not a palindrome.

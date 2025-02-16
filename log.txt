@@ -3050,3 +3050,4 @@
 21617 is not a palindrome.
 32747 is not a palindrome.
 50105 is a palindrome.
+98524 is not a palindrome.

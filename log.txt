@@ -3066,3 +3066,4 @@
 57813 is not a palindrome.
 59438 is not a palindrome.
 87189 is not a palindrome.
+95289 is not a palindrome.

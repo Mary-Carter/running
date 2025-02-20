@@ -3075,3 +3075,4 @@
 33417 is not a palindrome.
 35376 is not a palindrome.
 36680 is not a palindrome.
+35242 is not a palindrome.

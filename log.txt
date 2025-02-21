@@ -3080,3 +3080,4 @@
 87189 is not a palindrome.
 79296 is not a palindrome.
 83020 is not a palindrome.
+50478 is not a palindrome.

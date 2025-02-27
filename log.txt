@@ -3115,3 +3115,4 @@
 82212 is not a palindrome.
 79571 is not a palindrome.
 31597 is not a palindrome.
+64095 is not a palindrome.
